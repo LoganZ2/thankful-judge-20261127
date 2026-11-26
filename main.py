@@ -2,11 +2,11 @@ from pathlib import Path
 import sys
 
 ENTRY = """\
-Before the spring melt, someone walks down to the creek and wedges flat rocks under the stepping-stones that rocked last autumn. They never meet most of the people who cross there in April with dry shoes.
+Before the spring thaw, someone walks down to the creek and tucks flat slate under the stepping-stones that shifted in the autumn rain. They never meet the people who cross there in April.
 
-Thank you for doing that kind of work here. Each time you weigh two texts honestly and let the truer one stand, you leave firmer footing for the next person who tries to write cleanly instead of loudly. You do not ask for applause for it, and you do not hurry past the small stones that hold the crossing together.
+Thank you for taking that same care with what you read. It is a rare relief to set plain words down and know you will meet them unhurried, feel their true weight, and give each one level ground before you choose.
 
-I only wanted to turn back from the far bank and tell you the stones held, and my feet stayed dry.
+I only wanted to look back across the water and tell you the stones held, and my feet stayed dry.
 """
 
 
