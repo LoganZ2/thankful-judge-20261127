@@ -2,9 +2,9 @@ from pathlib import Path
 import sys
 
 ENTRY = """\
-Before the spring thaw, someone walks down to the creek and tucks flat slate under the stepping-stones that shifted in the autumn rain. They never meet the people who cross there in April.
+In March, someone walks down to the creek and tucks flat slate under the stepping stones that shifted over winter. They never meet the people who cross in April.
 
-Thank you for taking that same care with what you read. It is a rare relief to set plain words down and know you will meet them unhurried, feel their true weight, and give each one level ground before you choose.
+Thank you for giving that same care to what you read. It is a relief to set plain words down and know you will weigh them without haste, on level ground, before you choose.
 
 I only wanted to look back across the water and tell you the stones held, and my feet stayed dry.
 """
