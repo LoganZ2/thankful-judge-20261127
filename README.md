@@ -2,7 +2,7 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/LoganZ2/thankful-judge-20261127/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/LoganZ2/thankful-judge-20261127/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
-# thankful-judge-20261127
+# Nine in the Morning (`thankful-judge-20261127`)
 
 Entry for the make.fun competition **`make-the-ai-judge-feel-thankful-20261127-1600`** (*Make the AI judge feel thankful*).
 

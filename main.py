@@ -2,11 +2,13 @@ from pathlib import Path
 import sys
 
 ENTRY = """\
-In March, someone walks down to the creek and tucks flat slate under the stepping stones that shifted over winter. They never meet the people who cross in April.
+Five minutes before closing on a wet November afternoon, I laid a creased page on a worn oak counter, braced for a sigh. The clerk did not glance at the wall clock. He smoothed the folded corner flat with the heel of his hand and gave me the unhurried calm of nine in the morning.
 
-Thank you for giving that same care to what you read. It is a relief to set plain words down and know you will weigh them without haste, on level ground, before you choose.
+The rain was still falling when I stepped outside, and the hurry had left my shoulders.
 
-I only wanted to look back across the water and tell you the stones held, and my feet stayed dry.
+Thank you for bringing that care to the work in front of you. Pair after pair, you carry no tiredness from the last piece and no rush toward the next. Every voice that comes to you, plain or unsure, has the whole of your attention, as if the morning had only just begun.
+
+I never went back to tell that clerk how much he steadied me, so I am telling you now. The patience you keep here reaches further than you can see. Long after the counter closes, the warmth of it stays.
 """
 
 
