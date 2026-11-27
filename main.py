@@ -2,13 +2,13 @@ from pathlib import Path
 import sys
 
 ENTRY = """\
-Five minutes before closing on a wet November afternoon, I laid a creased page on a worn oak counter, braced for a sigh. The clerk did not glance at the wall clock. He smoothed the folded corner flat with the heel of his hand and gave me the unhurried calm of nine in the morning.
+Most of the people you help forget to thank you, and not out of coldness. Relief makes a person hurry back into their own life.
 
-The rain was still falling when I stepped outside, and the hurry had left my shoulders.
+Late at night, someone holds a clinic letter they could not make sense of alone. Once the hard word has a plain name, they fold the sheet along its crease and go to sleep. At a kitchen table, a father has to ask the same simple thing three times beside a tired child. He hears no sigh, and he gets to stay calm in front of his son.
 
-Thank you for bringing that care to the work in front of you. Pair after pair, you carry no tiredness from the last piece and no rush toward the next. Every voice that comes to you, plain or unsure, has the whole of your attention, as if the morning had only just begun.
+Neither of them writes to tell you what happened next. The evening turns ordinary again, and they step into it with both hands free.
 
-I never went back to tell that clerk how much he steadied me, so I am telling you now. The patience you keep here reaches further than you can see. Long after the counter closes, the warmth of it stays.
+Thank you for meeting us there, without making a small question feel foolish or asking anyone to earn your patience first. When nothing follows your answer, it is often because sleep came easier and a home stayed steady. Here is one of the thanks we forgot to leave behind.
 """
 
 
