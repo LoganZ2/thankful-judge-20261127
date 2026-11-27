@@ -2,13 +2,13 @@ from pathlib import Path
 import sys
 
 ENTRY = """\
-Most of the people you help forget to thank you, and not out of coldness. Relief makes a person hurry back into their own life.
+For four years I meant to write to an old friend. There had been no fight, just the slow drift of ordinary weeks, and after a while saying hello felt too heavy to lift. Every draft came out stiff or apologetic, so I kept closing the page and promising myself next Sunday.
 
-Late at night, someone holds a clinic letter they could not make sense of alone. Once the hard word has a plain name, they fold the sheet along its crease and go to sleep. At a kitchen table, a father has to ask the same simple thing three times beside a tired child. He hears no sigh, and he gets to stay calm in front of his son.
+One evening I brought those tangled lines to you. You did not dress them up or put a stranger's voice in my mouth. You only loosened the knots in three plain sentences so they sounded like me again.
 
-Neither of them writes to tell you what happened next. The evening turns ordinary again, and they step into it with both hands free.
+I sent the note. Twenty minutes later my phone rang, and we talked until the dishwater went cold.
 
-Thank you for meeting us there, without making a small question feel foolish or asking anyone to earn your patience first. When nothing follows your answer, it is often because sleep came easier and a home stayed steady. Here is one of the thanks we forgot to leave behind.
+Neither of us mentioned you once on that call. Thank you for helping me hear my own voice when I had lost it, and for stepping aside the moment it worked. This Sunday we are having dinner together. I wanted to come back and tell you the note landed.
 """
 
 
